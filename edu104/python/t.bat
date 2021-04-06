@@ -1,0 +1,1 @@
+python .\bB.py --file input.txt

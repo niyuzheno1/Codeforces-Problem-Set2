@@ -1,0 +1,20 @@
+There exists a u such that
+
+minp + (n-1) <= u * k
+
+and 
+minp * n >= u * k 
+
+and minp is minimum
+
+(minp*n)/k >= 1
+minp*n >= k
+
+minp >= k/n
+
+(minp + n-1)/k <= 1
+
+minp <= k - n + 1
+
+
+minp * n // k != (minp + n-1)//k

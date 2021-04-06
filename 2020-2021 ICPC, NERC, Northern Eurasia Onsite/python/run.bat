@@ -1,0 +1,1 @@
+python sol%1.py < input.txt

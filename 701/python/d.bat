@@ -1,0 +1,1 @@
+python d.py --file input.txt
